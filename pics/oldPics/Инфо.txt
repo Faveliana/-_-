@@ -1,0 +1,14 @@
+HP EliteBook8470p
+14.0-inch LED HD+ (1600 x 900) anti-glare
+Pitch: 0.1935 mm
+131 ppi
+
+Samsung S7
+575 dpi, 1440*2560, 5.1 inces
+Pitch = 4,4173913043478260869565217391304e-5
+Diagonal = 5,3450434782608695652173913043478e-5
+
+Samsung A70
+393 dpi, 1080*2400, 6.7 inces
+
+1 дюйм = 0,0254 м
